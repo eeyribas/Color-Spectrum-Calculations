@@ -1,0 +1,10 @@
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\bin\x64\Release\SpectrometerReader.exe.config
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\bin\x64\Release\SpectrometerReader.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\bin\x64\Release\SpectrometerReader.pdb
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.Form1.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\SpectrometerReader\obj\x64\Release\SpectrometerReader.pdb

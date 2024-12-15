@@ -1,0 +1,12 @@
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\bin\x64\Release\Berger-Whiteness-Tint-Measurements.exe.config
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\bin\x64\Release\Berger-Whiteness-Tint-Measurements.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\bin\x64\Release\Berger-Whiteness-Tint-Measurements.pdb
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger_Whiteness_Tint_Measurements.Form1.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger_Whiteness_Tint_Measurements.Form2.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger_Whiteness_Tint_Measurements.Form3.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger_Whiteness_Tint_Measurements.Form4.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger_Whiteness_Tint_Measurements.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger-Whiteness-Tint-Measurements.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger-Whiteness-Tint-Measurements.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger-Whiteness-Tint-Measurements.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\Berger-Whiteness-Tint-Measurements\obj\x64\Release\Berger-Whiteness-Tint-Measurements.pdb
