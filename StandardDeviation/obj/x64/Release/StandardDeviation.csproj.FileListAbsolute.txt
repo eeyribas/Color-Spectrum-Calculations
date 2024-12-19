@@ -1,0 +1,10 @@
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\bin\x64\Release\StandardDeviation.exe.config
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\bin\x64\Release\StandardDeviation.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\bin\x64\Release\StandardDeviation.pdb
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.Form1.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\StandardDeviation\obj\x64\Release\StandardDeviation.pdb

@@ -1,0 +1,10 @@
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\bin\x64\Release\ReflectanceCalculation.exe.config
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\bin\x64\Release\ReflectanceCalculation.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\bin\x64\Release\ReflectanceCalculation.pdb
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.Form1.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.Properties.Resources.resources
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.csproj.GenerateResource.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.exe
+D:\BACKUP\GitHub Calismalar\Spectrum-Calculations\ReflectanceCalculation\obj\x64\Release\ReflectanceCalculation.pdb
