@@ -1,0 +1,9 @@
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\bin\x64\Release\SpectrometerColorReader.exe.config
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\bin\x64\Release\SpectrometerColorReader.exe
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\bin\x64\Release\SpectrometerColorReader.pdb
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.Form1.resources
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.Properties.Resources.resources
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.csproj.GenerateResource.cache
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.csproj.CoreCompileInputs.cache
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.exe
+D:\BACKUP\Programming Languages\C# - Programming Language\Repos\Color-Spectrum-Calculations\SpectrometerColorReader\obj\x64\Release\SpectrometerColorReader.pdb

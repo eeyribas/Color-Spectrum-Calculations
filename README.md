@@ -1,4 +1,4 @@
-# Spectrum-Calculations
+# Color-Spectrum-Calculations
 In order to determine color measurements with the spectrometer, calculations must be made based on spectrum values. This repository contains applications related to these calculations. 
 Applications for determining color measurements with the spectrometer or for calibrating spectrometers are included. The applications support spectrometers developed by the Insion company as the spectrometer brand. 
 These applications are;
